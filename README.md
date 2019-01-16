@@ -3,10 +3,10 @@ This repository uses the data from [Kaggle 2018 ML\DS survey](https://www.kaggle
 
 Ever since I've been interested in Data Science , I've thought of the differences in this field in India and USA. There have been certain norms regarding the differences that have been set during the years, what remains to be seen is whether the survey complies with those norms or contradicts them.
 
-The kernel.ipynb file actually has python code to analyse and visualize this data. Since most of the plots that I made were using plotly,
+The kernel.ipynb file actually has the python code to analyse and visualize this data(and from where I get the plots shown below). Since most of the plots that I made were using plotly,
 they are not rendered in the file so I'll show them here with the insights I got from them. Although you can find some plots that I made with matplotlib in the code file itself.
 
-## countrywise contribution in the survey. ##
+## Country-wise contribution in the survey. ##
 
 ![alt text](https://github.com/Ibtastic/India-vs-USA-Difference-in-data-science-Scenario-/blob/master/vis/countrywise%20contribution.png)
 
@@ -21,7 +21,7 @@ As it appears, India has the second highest reponse after America.
 * More Americans learn at work than Indians (probably due to greater number of data science jobs in America than India).
 * The "Self-Taught" and "Online Course" pattern could be considered the same beacuse more respondents are Americans.
 
-## MOOC prefernce differences. ##
+## MOOC preference differences. ##
 
 ![alt text](https://github.com/Ibtastic/India-vs-USA-Difference-in-data-science-Scenario-/blob/master/vis/MOOC.png)
 
